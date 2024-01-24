@@ -1,3 +1,4 @@
+import { AppRoutes } from "./presentation/routes"
 import { Server } from "./presentation/server"
 
 (() => {
@@ -11,6 +12,7 @@ async function main() {
   // Todo: inicio de nuestro servidor
   new Server({
     port: 8080,
+    routes: AppRoutes.routes
   })
   .start()
   
