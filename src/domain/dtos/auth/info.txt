@@ -1,0 +1,7 @@
+
+DTO, que significa "Data Transfer Object" (Objeto de Transferencia de Datos), 
+es un patrón de diseño comúnmente utilizado en el desarrollo de software y, 
+específicamente, en el contexto del backend. Un DTO es una estructura de datos 
+que se utiliza para transferir datos entre capas de una aplicación. 
+Su principal propósito es encapsular los datos y enviarlos entre diferentes partes 
+del sistema de manera eficiente.
