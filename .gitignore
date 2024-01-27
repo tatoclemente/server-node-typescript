@@ -2,6 +2,8 @@
 
 .env
 
+mongo/
+
 node_modules/
 
 dist/
